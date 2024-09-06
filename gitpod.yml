@@ -1,0 +1,5 @@
+tasks:
+  - name: Setup Node.js
+    init: |
+      nvm install 18
+      nvm use 18
